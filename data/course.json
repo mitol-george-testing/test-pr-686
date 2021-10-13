@@ -1,0 +1,24 @@
+{
+  "level": "",
+  "topics": [],
+  "instructors": {
+    "content": [],
+    "website": "test-pr-686"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-pr-686"
+  },
+  "course_title": "test metadata",
+  "course_description": "",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-pr-686"
+  },
+  "learning_resource_types": []
+}
